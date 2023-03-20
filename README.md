@@ -1,5 +1,5 @@
-# teste_sense_data
-Projeto destinado à apresentação de teste prático para vaga de QA Jr. na empresa Sense Data.
+# automatizando_compras_ecommerce
+Projeto destinado à portifólio.
 
 Para executar o projeto você deve:
 Instalar Python 3.10.8;
