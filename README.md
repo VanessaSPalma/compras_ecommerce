@@ -1,5 +1,5 @@
 # automatizando_compras_ecommerce
-Projeto destinado à portifólio.
+Projeto destinado à portfolio.
 
 Para executar o projeto você deve:
 Instalar Python 3.10.8;
